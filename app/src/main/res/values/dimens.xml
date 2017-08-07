@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin_50">8dp</dimen>
+    <dimen name="widget_width">300dp</dimen>
+    <dimen name="widget_height">100dp</dimen>
+</resources>
